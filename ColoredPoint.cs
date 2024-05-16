@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+
 namespace ConsoleApp5
 {
     // Класс ColoredPoint наследуется от Point и добавляет свойство цвета
